@@ -5,6 +5,6 @@ GPresets file MOD optimized for VR
 
 ## Installation
 
-Simply copy `gpresets.cfg` file at `data\luascripts\` directory, or use [JSGME](https://www.softpedia.com/get/Others/Miscellaneous/Generic-Mod-Enabler.shtml) (recommended) and copy content of ZIP file from releases directly into `MODS` directory.
+Simply copy `gpresets.cfg` file at `data\luascripts\` directory game, or use [JSGME](https://www.softpedia.com/get/Others/Miscellaneous/Generic-Mod-Enabler.shtml) (recommended) and copy content of ZIP file from releases directly into `MODS` directory.
 
 In-game MODs option must be enabled in order to work.
